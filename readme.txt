@@ -13,3 +13,5 @@ https://modrinth.com/mod/moremcmeta
 
 スポーンエッグの色彩修正
 https://www.curseforge.com/minecraft/mc-mods/colormatic
+
+制作：澪(hamu350),かつ丼さん,朝田亜鈴,sorairo563
